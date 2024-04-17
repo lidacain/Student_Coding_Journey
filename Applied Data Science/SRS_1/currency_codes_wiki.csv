@@ -1,0 +1,180 @@
+,Code,Num,D[a],Currency,Locations listed for this currency[b]
+0,AED,784,2,United Arab Emirates dirham,United Arab Emirates
+1,AFN,971,2,Afghan afghani,Afghanistan
+2,ALL,008,2,Albanian lek,Albania
+3,AMD,051,2,Armenian dram,Armenia
+4,ANG,532,2,Netherlands Antillean guilder,"Curaçao (CW),  Sint Maarten (SX)"
+5,AOA,973,2,Angolan kwanza,Angola
+6,ARS,032,2,Argentine peso,Argentina
+7,AUD,036,2,Australian dollar,"Australia,  Christmas Island (CX),  Cocos (Keeling) Islands (CC),  Heard Island and McDonald Islands (HM),  Kiribati (KI),  Nauru (NR),  Norfolk Island (NF),  Tuvalu (TV)"
+8,AWG,533,2,Aruban florin,Aruba
+9,AZN,944,2,Azerbaijani manat,Azerbaijan
+10,BAM,977,2,Bosnia and Herzegovina convertible mark,Bosnia and Herzegovina
+11,BBD,052,2,Barbados dollar,Barbados
+12,BDT,050,2,Bangladeshi taka,Bangladesh
+13,BGN,975,2,Bulgarian lev,Bulgaria
+14,BHD,048,3,Bahraini dinar,Bahrain
+15,BIF,108,0,Burundian franc,Burundi
+16,BMD,060,2,Bermudian dollar,Bermuda
+17,BND,096,2,Brunei dollar,Brunei
+18,BOB,068,2,Boliviano,Bolivia
+19,BOV,984,2,Bolivian Mvdol (funds code),Bolivia
+20,BRL,986,2,Brazilian real,Brazil
+21,BSD,044,2,Bahamian dollar,Bahamas
+22,BTN,064,2,Bhutanese ngultrum,Bhutan
+23,BWP,072,2,Botswana pula,Botswana
+24,BYN,933,2,Belarusian ruble,Belarus
+25,BZD,084,2,Belize dollar,Belize
+26,CAD,124,2,Canadian dollar,Canada
+27,CDF,976,2,Congolese franc,Democratic Republic of the Congo
+28,CHE,947,2,WIR euro (complementary currency),Switzerland
+29,CHF,756,2,Swiss franc,"Switzerland,  Liechtenstein (LI)"
+30,CHW,948,2,WIR franc (complementary currency),Switzerland
+31,CLF,990,4,Unidad de Fomento (funds code),Chile
+32,CLP,152,0,Chilean peso,Chile
+33,CNY,156,2,Renminbi[6],China
+34,COP,170,2,Colombian peso,Colombia
+35,COU,970,2[7],Unidad de Valor Real (UVR) (funds code)[7],Colombia
+36,CRC,188,2,Costa Rican colon,Costa Rica
+37,CUP,192,2,Cuban peso,Cuba
+38,CVE,132,2,Cape Verdean escudo,Cabo Verde
+39,CZK,203,2,Czech koruna,Czechia[8]
+40,DJF,262,0,Djiboutian franc,Djibouti
+41,DKK,208,2,Danish krone,"Denmark,  Faroe Islands (FO),  Greenland (GL)"
+42,DOP,214,2,Dominican peso,Dominican Republic
+43,DZD,012,2,Algerian dinar,Algeria
+44,EGP,818,2,Egyptian pound,Egypt
+45,ERN,232,2,Eritrean nakfa,Eritrea
+46,ETB,230,2,Ethiopian birr,Ethiopia
+47,EUR,978,2,Euro,"Åland Islands (AX),  European Union (EU),  Andorra (AD)[c],   Austria (AT),  Belgium (BE),  Croatia (HR),  Cyprus (CY),  Estonia (EE),  Finland (FI),  France (FR),  French Guiana (GF),  French Southern and Antarctic Lands (TF),  Germany (DE),  Greece (GR),  Guadeloupe (GP),  Ireland (IE),  Italy (IT),  Kosovo (XK)[d],  Latvia (LV),  Lithuania (LT),  Luxembourg (LU),  Malta (MT),  Martinique (MQ),  Mayotte (YT),  Monaco (MC)[c],  Montenegro (ME)[d],  Netherlands (NL),  Portugal (PT),  Réunion (RE),  Saint Barthélemy (BL),  Saint Martin (MF),  Saint Pierre and Miquelon (PM),  San Marino (SM)[c],  Slovakia (SK),  Slovenia (SI),  Spain (ES),  Vatican City (VA)[c]"
+48,FJD,242,2,Fiji dollar,Fiji
+49,FKP,238,2,Falkland Islands pound,Falkland Islands (pegged to GBP 1:1)
+50,GBP,826,2,Pound sterling,"United Kingdom,  Isle of Man (IM, see Manx pound),  Jersey (JE, see Jersey pound),  Guernsey (GG, see Guernsey pound),  Tristan da Cunha (SH-TA)"
+51,GEL,981,2,Georgian lari,Georgia
+52,GHS,936,2,Ghanaian cedi,Ghana
+53,GIP,292,2,Gibraltar pound,Gibraltar (pegged to GBP 1:1)
+54,GMD,270,2,Gambian dalasi,Gambia
+55,GNF,324,0,Guinean franc,Guinea
+56,GTQ,320,2,Guatemalan quetzal,Guatemala
+57,GYD,328,2,Guyanese dollar,Guyana
+58,HKD,344,2,Hong Kong dollar,Hong Kong
+59,HNL,340,2,Honduran lempira,Honduras
+60,HTG,332,2,Haitian gourde,Haiti
+61,HUF,348,2,Hungarian forint,Hungary
+62,IDR,360,2,Indonesian rupiah,Indonesia
+63,ILS,376,2,Israeli new shekel,Israel
+64,INR,356,2,Indian rupee,"India,  Bhutan"
+65,IQD,368,3,Iraqi dinar,Iraq
+66,IRR,364,2,Iranian rial,Iran
+67,ISK,352,0,Icelandic króna (plural: krónur),Iceland
+68,JMD,388,2,Jamaican dollar,Jamaica
+69,JOD,400,3,Jordanian dinar,Jordan
+70,JPY,392,0,Japanese yen,Japan
+71,KES,404,2,Kenyan shilling,Kenya
+72,KGS,417,2,Kyrgyzstani som,Kyrgyzstan
+73,KHR,116,2,Cambodian riel,Cambodia
+74,KMF,174,0,Comoro franc,Comoros
+75,KPW,408,2,North Korean won,North Korea
+76,KRW,410,0[e],South Korean won,South Korea
+77,KWD,414,3,Kuwaiti dinar,Kuwait
+78,KYD,136,2,Cayman Islands dollar,Cayman Islands
+79,KZT,398,2,Kazakhstani tenge,Kazakhstan
+80,LAK,418,2,Lao kip,Laos
+81,LBP,422,2,Lebanese pound,Lebanon
+82,LKR,144,2,Sri Lankan rupee,Sri Lanka
+83,LRD,430,2,Liberian dollar,Liberia
+84,LSL,426,2,Lesotho loti,Lesotho
+85,LYD,434,3,Libyan dinar,Libya
+86,MAD,504,2,Moroccan dirham,"Morocco,  Western Sahara"
+87,MDL,498,2,Moldovan leu,Moldova
+88,MGA,969,2[f],Malagasy ariary,Madagascar
+89,MKD,807,2,Macedonian denar,North Macedonia
+90,MMK,104,2,Myanmar kyat,Myanmar
+91,MNT,496,2,Mongolian tögrög,Mongolia
+92,MOP,446,2,Macanese pataca,Macau
+93,MRU,929,2[f][10],Mauritanian ouguiya,Mauritania
+94,MUR,480,2,Mauritian rupee,Mauritius
+95,MVR,462,2,Maldivian rufiyaa,Maldives
+96,MWK,454,2,Malawian kwacha,Malawi
+97,MXN,484,2,Mexican peso,Mexico
+98,MXV,979,2,Mexican Unidad de Inversion (UDI) (funds code),Mexico
+99,MYR,458,2,Malaysian ringgit,Malaysia
+100,MZN,943,2,Mozambican metical,Mozambique
+101,NAD,516,2,Namibian dollar,Namibia (pegged to ZAR 1:1)
+102,NGN,566,2,Nigerian naira,Nigeria
+103,NIO,558,2,Nicaraguan córdoba,Nicaragua
+104,NOK,578,2,Norwegian krone,"Norway,  Svalbard and  Jan Mayen (SJ),  Bouvet Island (BV)"
+105,NPR,524,2,Nepalese rupee,Nepal
+106,NZD,554,2,New Zealand dollar,"New Zealand,  Cook Islands (CK),  Niue (NU),  Pitcairn Islands (PN; see also Pitcairn Islands dollar),  Tokelau (TK)"
+107,OMR,512,3,Omani rial,Oman
+108,PAB,590,2,Panamanian balboa,Panama
+109,PEN,604,2,Peruvian sol,Peru
+110,PGK,598,2,Papua New Guinean kina,Papua New Guinea
+111,PHP,608,2,Philippine peso[11],Philippines
+112,PKR,586,2,Pakistani rupee,Pakistan
+113,PLN,985,2,Polish złoty,Poland
+114,PYG,600,0,Paraguayan guaraní,Paraguay
+115,QAR,634,2,Qatari riyal,Qatar
+116,RON,946,2,Romanian leu,Romania
+117,RSD,941,2,Serbian dinar,Serbia
+118,RUB,643,2,Russian ruble,Russia
+119,RWF,646,0,Rwandan franc,Rwanda
+120,SAR,682,2,Saudi riyal,Saudi Arabia
+121,SBD,090,2,Solomon Islands dollar,Solomon Islands
+122,SCR,690,2,Seychelles rupee,Seychelles
+123,SDG,938,2,Sudanese pound,Sudan
+124,SEK,752,2,Swedish krona (plural: kronor),Sweden
+125,SGD,702,2,Singapore dollar,Singapore
+126,SHP,654,2,Saint Helena pound,"Saint Helena (SH-SH),  Ascension Island (SH-AC)"
+127,SLE,925,2,Sierra Leonean leone (new leone)[12][13][14],Sierra Leone
+128,SLL,694,2,Sierra Leonean leone (old leone)[12][13][14][15],Sierra Leone
+129,SOS,706,2,Somalian shilling,Somalia
+130,SRD,968,2,Surinamese dollar,Suriname
+131,SSP,728,2,South Sudanese pound,South Sudan
+132,STN,930,2[16],São Tomé and Príncipe dobra,São Tomé and Príncipe
+133,SVC,222,2,Salvadoran colón,El Salvador
+134,SYP,760,2,Syrian pound,Syria
+135,SZL,748,2,Swazi lilangeni,Eswatini[11]
+136,THB,764,2,Thai baht,Thailand
+137,TJS,972,2,Tajikistani somoni,Tajikistan
+138,TMT,934,2,Turkmenistan manat,Turkmenistan
+139,TND,788,3,Tunisian dinar,Tunisia
+140,TOP,776,2,Tongan paʻanga,Tonga
+141,TRY,949,2,Turkish lira,Turkey
+142,TTD,780,2,Trinidad and Tobago dollar,Trinidad and Tobago
+143,TWD,901,2,New Taiwan dollar,Taiwan
+144,TZS,834,2,Tanzanian shilling,Tanzania
+145,UAH,980,2,Ukrainian hryvnia,Ukraine
+146,UGX,800,0,Ugandan shilling,Uganda
+147,USD,840,2,United States dollar,"United States,  American Samoa (AS),  British Indian Ocean Territory (IO) (also uses GBP),  British Virgin Islands (VG),  Caribbean Netherlands (BQ – Bonaire, Sint Eustatius and Saba),  Ecuador (EC),  El Salvador (SV),  Guam (GU),  Marshall Islands (MH),  Federated States of Micronesia (FM),  Northern Mariana Islands (MP),  Palau (PW),  Panama (PA) (as well as Panamanian Balboa),  Puerto Rico (PR),  Timor-Leste (TL),  Turks and Caicos Islands (TC),  U.S. Virgin Islands (VI),  United States Minor Outlying Islands (UM)"
+148,USN,997,2,United States dollar (next day) (funds code),United States
+149,UYI,940,0,Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code),Uruguay
+150,UYU,858,2,Uruguayan peso,Uruguay
+151,UYW,927,4,Unidad previsional[17],Uruguay
+152,UZS,860,2,Uzbekistani sum,Uzbekistan
+153,VED,926,2,Venezuelan digital bolívar[18],Venezuela
+154,VES,928,2,Venezuelan sovereign bolívar[11],Venezuela
+155,VND,704,0,Vietnamese đồng,Vietnam
+156,VUV,548,0,Vanuatu vatu,Vanuatu
+157,WST,882,2,Samoan tala,Samoa
+158,XAF,950,0,CFA franc BEAC,"Cameroon (CM),  Central African Republic (CF),  Republic of the Congo (CG),  Chad (TD),  Equatorial Guinea (GQ),  Gabon (GA)"
+159,XAG,961,.,Silver (one troy ounce),
+160,XAU,959,.,Gold (one troy ounce),
+161,XBA,955,.,European Composite Unit (EURCO) (bond market unit),
+162,XBB,956,.,European Monetary Unit (E.M.U.-6) (bond market unit),
+163,XBC,957,.,European Unit of Account 9 (E.U.A.-9) (bond market unit),
+164,XBD,958,.,European Unit of Account 17 (E.U.A.-17) (bond market unit),
+165,XCD,951,2,East Caribbean dollar,"Anguilla (AI),  Antigua and Barbuda (AG),  Dominica (DM),  Grenada (GD),  Montserrat (MS),  Saint Kitts and Nevis (KN),  Saint Lucia (LC),  Saint Vincent and the Grenadines (VC)"
+166,XDR,960,.,Special drawing rights,International Monetary Fund
+167,XOF,952,0,CFA franc BCEAO,"Benin (BJ),  Burkina Faso (BF),  Côte d'Ivoire (CI),  Guinea-Bissau (GW),  Mali (ML),  Niger (NE),  Senegal (SN),  Togo (TG)"
+168,XPD,964,.,Palladium (one troy ounce),
+169,XPF,953,0,CFP franc (franc Pacifique),"French territories of the Pacific Ocean:  French Polynesia (PF),  New Caledonia (NC),  Wallis and Futuna (WF)"
+170,XPT,962,.,Platinum (one troy ounce),
+171,XSU,994,.,SUCRE,Unified System for Regional Compensation (SUCRE)[19]
+172,XTS,963,.,Code reserved for testing,
+173,XUA,965,.,ADB Unit of Account,African Development Bank[20]
+174,XXX,999,.,No currency,
+175,YER,886,2,Yemeni rial,Yemen
+176,ZAR,710,2,South African rand,"Eswatini,  Lesotho,  Namibia,  South Africa"
+177,ZMW,967,2,Zambian kwacha,Zambia
+178,ZWL,932,2,Zimbabwean dollar (fifth)[g],Zimbabwe
